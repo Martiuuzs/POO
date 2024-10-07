@@ -11,3 +11,5 @@ for letra in valor:
         codigoAscii = ord("A")
     crypto += chr(codigoAscii)
 print(crypto)
+
+#SI MANDAMOS UNA LETRA, POR EJEMPLO: "A" + 1, NOS DEVOLVERÍA "B"
